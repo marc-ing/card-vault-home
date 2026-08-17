@@ -18,6 +18,10 @@
 
 直接使用浏览器打开仓库根目录中的 [`index.html`](index.html)，即可预览完整网站。
 
+## 项目文档
+
+- [产品需求文档（PRD）](docs/PRD.md)
+
 ## 项目结构
 
 ```text
@@ -26,6 +30,7 @@ privacy/index.html                 # 隐私政策
 support/index.html                 # 帮助与支持
 styles.css                         # 共用样式与移动端适配
 app-icon.png                       # 来自 iOS 工程的正式 App Icon
+docs/PRD.md                        # 产品需求文档
 .github/workflows/pages.yml        # GitHub Pages 部署工作流
 ```
 

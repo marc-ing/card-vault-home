@@ -18,6 +18,10 @@ This is a pure static website. No Node.js installation, dependency setup, or bui
 
 Open [`index.html`](index.html) directly in a browser to preview the complete website.
 
+## Documentation
+
+- [Product requirements document (Chinese)](docs/PRD.md)
+
 ## Project structure
 
 ```text
@@ -26,6 +30,7 @@ privacy/index.html                 # Privacy policy
 support/index.html                 # Help and support
 styles.css                         # Shared styles and responsive layout
 app-icon.png                       # Official app icon from the iOS project
+docs/PRD.md                        # Product requirements document
 .github/workflows/pages.yml        # GitHub Pages deployment workflow
 ```
 
